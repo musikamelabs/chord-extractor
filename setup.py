@@ -22,7 +22,7 @@ setuptools.setup(
         "License :: OSI Approved :: GNU General Public License v2 (GPLv2)",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6,<=3.10',
+    python_requires='>=3.6',
     install_requires=[
         'librosa==0.9.2', 'vamp'
     ],
